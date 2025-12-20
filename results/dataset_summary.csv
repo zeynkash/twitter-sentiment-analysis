@@ -1,0 +1,13 @@
+Metric,Value
+Total Tweets,"99,357"
+Positive Tweets,"49,739 (50.1%)"
+Negative Tweets,"49,618 (49.9%)"
+Avg Tweet Length (chars),74.4
+Avg Word Count,13.2
+Min Tweet Length,7
+Max Tweet Length,323
+Tweets with Hashtags,"2,273 (2.3%)"
+Tweets with Mentions,"46,145 (46.4%)"
+Tweets with URLs,"4,330 (4.4%)"
+Duplicates Removed,298
+Short Tweets Removed,345
